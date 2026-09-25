@@ -1,0 +1,3 @@
+C:/Users/Isabella/Desktop/26-2/Programacion 2/Laboratorio 3/lab3-25.2/cmake-build-debug/CMakeFiles/lab3_25_2.dir
+C:/Users/Isabella/Desktop/26-2/Programacion 2/Laboratorio 3/lab3-25.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Isabella/Desktop/26-2/Programacion 2/Laboratorio 3/lab3-25.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
