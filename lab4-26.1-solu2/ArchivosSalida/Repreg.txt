@@ -1,0 +1,16 @@
+Reporte
+
+FECHA       HORA   CODIGO  NOMBRE              RAZA              COLOR
+============================================================================
+2025/04/07  09:30  108     Axl Rose            Canario           Amarillo
+2025/04/17  11:00  101     Luna                Labrador          Negro
+2025/10/03  09:30  126     Pimpona             Agapornis         Lutino
+2025/10/03  12:30  103     Rocky               Bulldog           Marron
+2025/10/12  09:30  126     Pimpona             Agapornis         Lutino
+2025/10/13  12:30  103     Rocky               Bulldog           Marron
+2025/12/20  09:30  125     Debbie Harry        Canario           Amarillo Mosaico
+2025/12/20  12:30  109     Dali                Americano         Blanco
+2026/04/08  13:00  111     Slash               Canario           Agata Rojo
+2026/04/10  08:00  115     Toby                Poodle            Blanco
+2026/04/10  10:00  102     Fenix               Ninfa             Lutino
+2026/04/25  10:30  110     LuisXV              Siberiano         plomo
