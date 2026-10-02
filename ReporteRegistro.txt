@@ -1,0 +1,280 @@
+2019/11/22  26522329          SANCHEZ DEL CASTILLO FIORELLA ROSARIO                              101
+2019/09/14  47844324          VILCA LEE NESTOR HUGO                                              101
+2019/09/05  53374153          SERRANO IBEROS FRANCISCO                                           101
+2019/05/09  19568447          VEGA SORIA HENRRY                                                  102
+2019/01/20  25518120          RONDON CABRERA ALEXANDER ADOLFO                                    103
+2019/08/14  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      103
+2019/02/11  34248357          LEYVA LANDEO NANCY SONIA                                           103
+2019/12/21  12270502          CUEVA FUENTES CINTHIA DELIA                                        104
+2019/10/27  16477908          BACA CAMACHO MILAGROS NATALIA                                      104
+2019/02/26  34248357          LEYVA LANDEO NANCY SONIA                                           104
+2019/05/23  53853385          SOLIS NARVAEZ MARIA MADELEINE                                      104
+2019/10/29  54447051          AVILA DEL CASTILLO ANNIE                                           105
+2019/06/25  27268323          LOZADA IBEROS HELI BLANCA                                          106
+2019/05/18  48878256          RAFFO CORONADO ROLANDO                                             106
+2019/09/28  50201756          ZEGARRA PENA CARMELA                                               106
+2019/06/30  13219606          RODRIGUEZ MORENO BLANCA OFELIA                                     107
+2019/05/21  53853385          SOLIS NARVAEZ MARIA MADELEINE                                      109
+2019/09/15  52002275          CASANOVA ZEGARRA MARITZA                                           110
+2019/11/21  19963454          SALAMANCA CABRERA NESTOR EVERT                                     111
+2019/01/12  19963454          SALAMANCA CABRERA NESTOR EVERT                                     111
+2019/09/28  50200823          LEYVA SAM DIANA DELIA                                              111
+2019/05/22  29833157          HIJAR LAM MARTIN                                                   114
+2019/11/01  50200823          LEYVA SAM DIANA DELIA                                              114
+2019/12/31  60335381          DIAZ TANG ENRIQUE                                                  114
+2019/01/02  16477908          BACA CAMACHO MILAGROS NATALIA                                      115
+2019/02/28  29989682          CAMACHO PAIRAZAMAN YDALI LUCERO                                    115
+2019/06/08  30046639          SALAMANCA VEGA VIRGINIA MARTHA                                     116
+2019/11/25  60784914          RUIZ ZEVALLOS WALTER RONY                                          116
+2019/07/06  16925690          CABRERA TORO FANNY                                                 117
+2019/08/08  34976629          LOZADA ARGUEDAS FELICITA VALENTINA                                 117
+2019/04/08  35297848          ASTETE CHANG GUIDA                                                 117
+2019/01/22  52002275          CASANOVA ZEGARRA MARITZA                                           117
+2019/12/18  16136330          YEP PRECIADO RICHARD                                               118
+2019/10/27  48878256          RAFFO CORONADO ROLANDO                                             118
+2019/09/16  52002275          CASANOVA ZEGARRA MARITZA                                           118
+2019/03/20  52003695          CARBAJAL SALAS MAGDA ZKENIA                                        118
+2019/10/20  60335381          DIAZ TANG ENRIQUE                                                  118
+2019/05/03  27864822          FIGUEROA MEDINA MADELEINE                                          119
+2019/06/08  12858682          ZARATE PEREZ ALEXANDER                                             121
+2019/03/21  25518120          RONDON CABRERA ALEXANDER ADOLFO                                    121
+2019/05/03  51395324          TRIGUEROS PORTUGAL ARTURO FAUSTO                                   121
+2019/04/01  25518120          RONDON CABRERA ALEXANDER ADOLFO                                    122
+2019/12/23  26522329          SANCHEZ DEL CASTILLO FIORELLA ROSARIO                              122
+2019/08/01  42956681          POMAJAMBO EGUSQUIZA PAUL                                           122
+2019/11/06  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      123
+2019/02/16  35912665          MARTINEZ CRUZ EVERT RONY                                           124
+2019/09/27  63291514          LAU ZAVALETA YDALI ELIA                                            124
+2019/07/02  48878256          RAFFO CORONADO ROLANDO                                             125
+2019/03/23  35912665          MARTINEZ CRUZ EVERT RONY                                           126
+2019/06/06  39544560          LUNA VARGAS WALDEMAR                                               126
+2019/10/06  44188994          VILCARA YALLICO MAGALI                                             126
+2019/10/27  39544560          LUNA VARGAS WALDEMAR                                               127
+2019/03/14  42956681          POMAJAMBO EGUSQUIZA PAUL                                           127
+2019/03/27  47528229          SAAVEDRA GONZALES WILMER                                           127
+2019/05/24  34248357          LEYVA LANDEO NANCY SONIA                                           128
+2019/06/07  19963454          SALAMANCA CABRERA NESTOR EVERT                                     129
+2019/09/01  30441350          RETAMOSO SALAMANCA DELIA MARITZA                                   129
+2019/10/28  31205866          VIZCARRA MONTERO JAIR                                              129
+2019/09/03  50200823          LEYVA SAM DIANA DELIA                                              129
+2019/09/02  15559308          BRAVO CORTES JANET FLOR                                            130
+2019/04/20  29833157          HIJAR LAM MARTIN                                                   130
+2019/06/16  54447051          AVILA DEL CASTILLO ANNIE                                           130
+2019/11/02  28820944          RIOS ZAMORA INES                                                   131
+2019/06/01  16477908          BACA CAMACHO MILAGROS NATALIA                                      132
+2019/03/27  34976629          LOZADA ARGUEDAS FELICITA VALENTINA                                 132
+2019/07/16  48450395          RAMIREZ ASTETE KARINA ESTEFANIA                                    132
+2019/12/18  54447051          AVILA DEL CASTILLO ANNIE                                           132
+2019/11/26  15559308          BRAVO CORTES JANET FLOR                                            133
+2019/10/01  54447051          AVILA DEL CASTILLO ANNIE                                           133
+2019/11/27  15559308          BRAVO CORTES JANET FLOR                                            164
+2019/06/15  26522329          SANCHEZ DEL CASTILLO FIORELLA ROSARIO                              164
+2019/02/15  50200823          LEYVA SAM DIANA DELIA                                              165
+2019/10/31  60784914          RUIZ ZEVALLOS WALTER RONY                                          165
+2019/11/17  16925690          CABRERA TORO FANNY                                                 166
+2019/07/27  12443643          LEE SERRANO ROSARIO                                                170
+2019/01/03  15115705          HERNANDEZ CORRALES GUILLERMO                                       170
+2019/09/01  53853385          SOLIS NARVAEZ MARIA MADELEINE                                      170
+2019/05/01  60784914          RUIZ ZEVALLOS WALTER RONY                                          170
+2019/12/25  27864822          FIGUEROA MEDINA MADELEINE                                          134
+2019/07/15  30441350          RETAMOSO SALAMANCA DELIA MARITZA                                   134
+2019/04/08  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      134
+2019/08/21  53374153          SERRANO IBEROS FRANCISCO                                           134
+2019/03/10  12270502          CUEVA FUENTES CINTHIA DELIA                                        135
+2019/03/18  63736112          ZAMORA ZAVALETA RONAL MANUEL                                       135
+2019/09/04  13219606          RODRIGUEZ MORENO BLANCA OFELIA                                     136
+2019/01/19  30046639          SALAMANCA VEGA VIRGINIA MARTHA                                     136
+2019/07/29  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      136
+2019/12/19  35912665          MARTINEZ CRUZ EVERT RONY                                           136
+2019/06/10  27864822          FIGUEROA MEDINA MADELEINE                                          137
+2019/05/20  35683701          DIAZ MOYA ELIA ANNIE                                               137
+2019/06/12  36079131          ZAVALETA VILCA ERICKA ELEONOR                                      137
+2019/04/30  36079131          ZAVALETA VILCA ERICKA ELEONOR                                      137
+2019/10/09  48878256          RAFFO CORONADO ROLANDO                                             137
+2019/11/29  49927087          INGA PALOMARES ERIKA                                               137
+2019/03/08  31107104          MOSCOSO ARIAS FIORELLA                                             138
+2019/10/13  50200823          LEYVA SAM DIANA DELIA                                              138
+2019/10/31  50200823          LEYVA SAM DIANA DELIA                                              139
+2019/08/14  60784914          RUIZ ZEVALLOS WALTER RONY                                          139
+2019/09/27  15559308          BRAVO CORTES JANET FLOR                                            140
+2019/02/03  27864822          FIGUEROA MEDINA MADELEINE                                          140
+2019/04/20  54141214          DURAND MIRANDA MIGUEL JUAN                                         140
+2019/09/15  50201756          ZEGARRA PENA CARMELA                                               142
+2019/09/03  53374153          SERRANO IBEROS FRANCISCO                                           142
+2019/10/08  15029228          VALVERDE MAEIREIZO MELVIN JAIR                                     144
+2019/08/27  16925690          CABRERA TORO FANNY                                                 144
+2019/06/03  16925690          CABRERA TORO FANNY                                                 144
+2019/08/11  49927087          INGA PALOMARES ERIKA                                               144
+2019/10/18  32090869          SUELDO ANTEZANO LUIS JESUS                                         145
+2019/07/10  42956681          POMAJAMBO EGUSQUIZA PAUL                                           145
+2019/10/18  48878256          RAFFO CORONADO ROLANDO                                             145
+2019/06/01  49927087          INGA PALOMARES ERIKA                                               145
+2019/12/30  16477908          BACA CAMACHO MILAGROS NATALIA                                      146
+2019/06/05  21621497          AYALA CASTILLO ERICKA OFELIA                                       146
+2019/04/07  29833157          HIJAR LAM MARTIN                                                   146
+2019/08/03  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      146
+2019/09/19  49927087          INGA PALOMARES ERIKA                                               146
+2019/12/22  53853385          SOLIS NARVAEZ MARIA MADELEINE                                      146
+2019/03/25  15559308          BRAVO CORTES JANET FLOR                                            147
+2019/11/04  48450395          RAMIREZ ASTETE KARINA ESTEFANIA                                    147
+2019/03/11  50200823          LEYVA SAM DIANA DELIA                                              147
+2019/11/02  63736112          ZAMORA ZAVALETA RONAL MANUEL                                       147
+2019/07/24  12270502          CUEVA FUENTES CINTHIA DELIA                                        148
+2019/01/16  47528229          SAAVEDRA GONZALES WILMER                                           149
+2019/11/16  51929951          CHAVEZ BERROCAL JOHAN                                              149
+2019/03/21  13219606          RODRIGUEZ MORENO BLANCA OFELIA                                     150
+2019/02/08  15559308          BRAVO CORTES JANET FLOR                                            150
+2019/09/28  54447051          AVILA DEL CASTILLO ANNIE                                           150
+2019/02/11  19963454          SALAMANCA CABRERA NESTOR EVERT                                     151
+2019/11/19  27185429          SOLIS CHUNG ROLANDO                                                151
+2019/04/19  35671623          EPIQUEN YEP GUIDA VICTORIA                                         151
+2019/03/19  15029228          VALVERDE MAEIREIZO MELVIN JAIR                                     152
+2019/02/06  49428502          RIVERO CORTEZ WILVER ALFONSO                                       152
+2019/05/22  49927087          INGA PALOMARES ERIKA                                               152
+2019/07/08  50200823          LEYVA SAM DIANA DELIA                                              152
+2019/03/18  54141214          DURAND MIRANDA MIGUEL JUAN                                         152
+2019/01/29  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      153
+2019/07/12  47528229          SAAVEDRA GONZALES WILMER                                           153
+2019/01/06  31107104          MOSCOSO ARIAS FIORELLA                                             154
+2019/12/31  31107104          MOSCOSO ARIAS FIORELLA                                             154
+2019/05/13  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      154
+2019/10/23  52002275          CASANOVA ZEGARRA MARITZA                                           154
+2019/11/20  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      155
+2019/01/30  35683701          DIAZ MOYA ELIA ANNIE                                               155
+2019/12/15  35912665          MARTINEZ CRUZ EVERT RONY                                           155
+2019/02/23  15559308          BRAVO CORTES JANET FLOR                                            156
+2019/07/22  35912665          MARTINEZ CRUZ EVERT RONY                                           156
+2019/10/14  35912665          MARTINEZ CRUZ EVERT RONY                                           156
+2019/03/15  53374153          SERRANO IBEROS FRANCISCO                                           156
+2019/04/07  15115705          HERNANDEZ CORRALES GUILLERMO                                       157
+2019/02/07  34248357          LEYVA LANDEO NANCY SONIA                                           157
+2019/01/09  35671623          EPIQUEN YEP GUIDA VICTORIA                                         157
+2019/10/21  47528229          SAAVEDRA GONZALES WILMER                                           158
+2019/06/20  53374153          SERRANO IBEROS FRANCISCO                                           159
+2019/02/23  58992942          NARVAEZ CASTILLO JESUS RAFAEL                                      159
+2019/11/17  30046639          SALAMANCA VEGA VIRGINIA MARTHA                                     160
+2019/04/25  35912665          MARTINEZ CRUZ EVERT RONY                                           160
+2019/04/16  63736112          ZAMORA ZAVALETA RONAL MANUEL                                       160
+2019/09/20  15559308          BRAVO CORTES JANET FLOR                                            161
+2019/08/09  16925690          CABRERA TORO FANNY                                                 161
+2019/06/21  34248357          LEYVA LANDEO NANCY SONIA                                           161
+2019/07/29  50201756          ZEGARRA PENA CARMELA                                               161
+2019/11/04  15115705          HERNANDEZ CORRALES GUILLERMO                                       163
+2019/01/31  21621497          AYALA CASTILLO ERICKA OFELIA                                       163
+2019/09/03  47528229          SAAVEDRA GONZALES WILMER                                           163
+2019/07/04  13219606          RODRIGUEZ MORENO BLANCA OFELIA                                     164
+2019/08/26  38862473          WONG MAEIREIZO BEATRIZ                                             309
+2019/10/05  24859596          FLORIAN CUBA CHRISTIAN                                             310
+2019/01/18  48878256          RAFFO CORONADO ROLANDO                                             310
+2019/01/29  29989682          CAMACHO PAIRAZAMAN YDALI LUCERO                                    311
+2019/07/12  34248357          LEYVA LANDEO NANCY SONIA                                           311
+2019/02/14  47528229          SAAVEDRA GONZALES WILMER                                           311
+2019/04/05  15559308          BRAVO CORTES JANET FLOR                                            312
+2019/02/28  54447051          AVILA DEL CASTILLO ANNIE                                           312
+2019/01/16  35683701          DIAZ MOYA ELIA ANNIE                                               314
+2019/11/07  19963454          SALAMANCA CABRERA NESTOR EVERT                                     315
+2019/11/27  35671623          EPIQUEN YEP GUIDA VICTORIA                                         315
+2019/09/16  12270502          CUEVA FUENTES CINTHIA DELIA                                        316
+2019/11/07  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      316
+2019/01/16  27864822          FIGUEROA MEDINA MADELEINE                                          318
+2019/03/14  38862473          WONG MAEIREIZO BEATRIZ                                             318
+2019/03/25  48878256          RAFFO CORONADO ROLANDO                                             318
+2019/10/19  60784914          RUIZ ZEVALLOS WALTER RONY                                          319
+2019/03/22  42956681          POMAJAMBO EGUSQUIZA PAUL                                           320
+2019/03/17  43454884          ESPINOZA CHANG SHIRLEY                                             320
+2019/04/11  45043076          VEGA VILCARA CARMELA TERESA                                        320
+2019/05/14  16925690          CABRERA TORO FANNY                                                 321
+2019/01/30  21621497          AYALA CASTILLO ERICKA OFELIA                                       321
+2019/07/18  27864822          FIGUEROA MEDINA MADELEINE                                          321
+2019/09/23  35671623          EPIQUEN YEP GUIDA VICTORIA                                         321
+2019/09/26  38862473          WONG MAEIREIZO BEATRIZ                                             321
+2019/06/24  48450395          RAMIREZ ASTETE KARINA ESTEFANIA                                    321
+2019/05/06  52002275          CASANOVA ZEGARRA MARITZA                                           321
+2019/12/22  15029228          VALVERDE MAEIREIZO MELVIN JAIR                                     322
+2019/08/20  48878256          RAFFO CORONADO ROLANDO                                             322
+2019/01/10  26522329          SANCHEZ DEL CASTILLO FIORELLA ROSARIO                              323
+2019/01/21  53853385          SOLIS NARVAEZ MARIA MADELEINE                                      323
+2019/03/04  30441350          RETAMOSO SALAMANCA DELIA MARITZA                                   324
+2019/08/24  38862473          WONG MAEIREIZO BEATRIZ                                             324
+2019/04/29  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      325
+2019/11/05  48450395          RAMIREZ ASTETE KARINA ESTEFANIA                                    325
+2019/02/02  51929951          CHAVEZ BERROCAL JOHAN                                              325
+2019/10/17  63736112          ZAMORA ZAVALETA RONAL MANUEL                                       325
+2019/03/30  27864822          FIGUEROA MEDINA MADELEINE                                          326
+2019/01/25  27185429          SOLIS CHUNG ROLANDO                                                327
+2019/09/06  30046639          SALAMANCA VEGA VIRGINIA MARTHA                                     327
+2019/07/05  43454884          ESPINOZA CHANG SHIRLEY                                             327
+2019/06/08  24859596          FLORIAN CUBA CHRISTIAN                                             328
+2019/12/26  35671623          EPIQUEN YEP GUIDA VICTORIA                                         328
+2019/07/13  38862473          WONG MAEIREIZO BEATRIZ                                             328
+2019/05/15  38862473          WONG MAEIREIZO BEATRIZ                                             328
+2019/02/18  49927087          INGA PALOMARES ERIKA                                               328
+2019/01/02  47844324          VILCA LEE NESTOR HUGO                                              329
+2019/08/31  48878256          RAFFO CORONADO ROLANDO                                             329
+2019/12/17  12270502          CUEVA FUENTES CINTHIA DELIA                                        330
+2019/07/11  16925690          CABRERA TORO FANNY                                                 330
+2019/08/18  36079131          ZAVALETA VILCA ERICKA ELEONOR                                      330
+2019/11/16  47528229          SAAVEDRA GONZALES WILMER                                           330
+2019/08/05  54447051          AVILA DEL CASTILLO ANNIE                                           331
+2019/02/24  54447051          AVILA DEL CASTILLO ANNIE                                           331
+2019/02/20  21621497          AYALA CASTILLO ERICKA OFELIA                                       332
+2019/06/12  26522329          SANCHEZ DEL CASTILLO FIORELLA ROSARIO                              332
+2019/11/23  27185429          SOLIS CHUNG ROLANDO                                                332
+2019/07/23  52002275          CASANOVA ZEGARRA MARITZA                                           333
+2019/09/26  54141214          DURAND MIRANDA MIGUEL JUAN                                         333
+2019/01/16  34976629          LOZADA ARGUEDAS FELICITA VALENTINA                                 334
+2019/01/12  45043076          VEGA VILCARA CARMELA TERESA                                        334
+2019/01/02  15559308          BRAVO CORTES JANET FLOR                                            335
+2019/11/18  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      335
+2019/10/19  35297848          ASTETE CHANG GUIDA                                                 335
+2019/12/10  15029228          VALVERDE MAEIREIZO MELVIN JAIR                                     201
+2019/02/17  29833157          HIJAR LAM MARTIN                                                   201
+2019/12/17  34976629          LOZADA ARGUEDAS FELICITA VALENTINA                                 201
+2019/09/17  37080813          FLORIAN VALDERRAMA JOSE                                            203
+2019/02/25  43454884          ESPINOZA CHANG SHIRLEY                                             203
+2019/04/22  36079131          ZAVALETA VILCA ERICKA ELEONOR                                      204
+2019/05/31  50201756          ZEGARRA PENA CARMELA                                               204
+2019/02/26  21621497          AYALA CASTILLO ERICKA OFELIA                                       205
+2019/12/05  47844324          VILCA LEE NESTOR HUGO                                              205
+2019/06/30  54447051          AVILA DEL CASTILLO ANNIE                                           205
+2019/05/30  15029228          VALVERDE MAEIREIZO MELVIN JAIR                                     206
+2019/07/21  29989682          CAMACHO PAIRAZAMAN YDALI LUCERO                                    206
+2019/03/06  26522329          SANCHEZ DEL CASTILLO FIORELLA ROSARIO                              207
+2019/06/29  47528229          SAAVEDRA GONZALES WILMER                                           207
+2019/03/18  27864822          FIGUEROA MEDINA MADELEINE                                          208
+2019/12/20  32244565          HENRIQUEZ PAREDES PAUL RAFAEL                                      208
+2019/03/13  60784914          RUIZ ZEVALLOS WALTER RONY                                          208
+2019/06/19  31107104          MOSCOSO ARIAS FIORELLA                                             301
+2019/09/10  35912665          MARTINEZ CRUZ EVERT RONY                                           301
+2019/06/25  36079131          ZAVALETA VILCA ERICKA ELEONOR                                      301
+2019/03/16  24859596          FLORIAN CUBA CHRISTIAN                                             302
+2019/12/03  29989682          CAMACHO PAIRAZAMAN YDALI LUCERO                                    302
+2019/12/20  47528229          SAAVEDRA GONZALES WILMER                                           302
+2019/04/22  53853385          SOLIS NARVAEZ MARIA MADELEINE                                      302
+2019/10/21  63736112          ZAMORA ZAVALETA RONAL MANUEL                                       302
+2019/01/09  15029228          VALVERDE MAEIREIZO MELVIN JAIR                                     304
+2019/05/14  34248357          LEYVA LANDEO NANCY SONIA                                           304
+2019/01/30  54447051          AVILA DEL CASTILLO ANNIE                                           304
+2019/10/07  34248357          LEYVA LANDEO NANCY SONIA                                           305
+2019/08/06  48878256          RAFFO CORONADO ROLANDO                                             305
+2019/10/01  53374153          SERRANO IBEROS FRANCISCO                                           305
+2019/06/21  24859596          FLORIAN CUBA CHRISTIAN                                             306
+2019/05/15  26522329          SANCHEZ DEL CASTILLO FIORELLA ROSARIO                              306
+2019/05/14  38862473          WONG MAEIREIZO BEATRIZ                                             306
+2019/10/07  49428502          RIVERO CORTEZ WILVER ALFONSO                                       306
+2019/08/14  47528229          SAAVEDRA GONZALES WILMER                                           307
+2019/02/06  34248357          LEYVA LANDEO NANCY SONIA                                           308
+2019/01/25  36079131          ZAVALETA VILCA ERICKA ELEONOR                                      308
+2019/08/10  42956681          POMAJAMBO EGUSQUIZA PAUL                                           308
+2019/09/04  44346371          ALFARO ALFARO ERICK BRUNO                                          335
+2019/01/29  47844324          VILCA LEE NESTOR HUGO                                              335
+2019/05/03  48878256          RAFFO CORONADO ROLANDO                                             335
+2019/09/05  50200823          LEYVA SAM DIANA DELIA                                              336
+2019/06/27  12858682          ZARATE PEREZ ALEXANDER                                             337
+2019/01/06  60335381          DIAZ TANG ENRIQUE                                                  337
+2019/06/23  49428502          RIVERO CORTEZ WILVER ALFONSO                                       338
+2019/10/12  30441350          RETAMOSO SALAMANCA DELIA MARITZA                                   339
+2019/09/26  35912665          MARTINEZ CRUZ EVERT RONY                                           339
+2019/09/15  38862473          WONG MAEIREIZO BEATRIZ                                             339
+2019/05/21  16136330          YEP PRECIADO RICHARD                                               341
+2019/07/22  26522329          SANCHEZ DEL CASTILLO FIORELLA ROSARIO                              341
